@@ -24,4 +24,4 @@ This C++ project implements Huffman encoding, a popular technique for lossless d
 3. Check the output file for the compressed or decompressed data respectively.
 
 ## Support or Contact
-For any inquiries or support regarding the Huffman Encoding and Decoding project, please contact janvi.bagrecha@gmail.com.
+For any inquiries or support regarding the Huffman Encoding and Decoding project, please contact atharvviit@gmail.com
