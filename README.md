@@ -16,7 +16,7 @@ This C++ project implements Huffman encoding, a popular technique for lossless d
 2. **Reconstructing Huffman Tree**: Using the tree information in the compressed file, the Huffman tree is reconstructed.
 3. **Decoding**: The encoded data is read, and using the Huffman tree, it's decoded back to its original form.
 4. **Output**: The decoded data is written into an output file.
-   ![image](https://github.com/atharvviit26/File-compression-using-Huffman-encoding/blob/main/image.png)
+   ![image](https://github.com/atharvviit26/File-compression-using-Huffman-encoding/blob/main/image)
 
 ## Usage
 1. Compile the C++ program using your preferred compiler.
